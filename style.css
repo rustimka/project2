@@ -1,0 +1,107 @@
+
+
+/* Начало Проекта */
+
+/* Начало красной шапки */
+.container{
+    margin: o 105px;
+    max-height: 1170px;
+   
+}
+
+.heder{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 50%;
+    min-height: 50px;
+    background-color:#ba0000;
+
+
+}
+
+.lang{
+    border: 0px;
+    color: white;
+   background-color: #ba0000;
+}
+
+
+.contac_center{
+    display: flex;
+    align-items: center;
+
+  
+
+   
+
+}
+
+
+.country_profile{
+    display: flex;
+    list-style-type: none;
+    margin: auto;
+    
+    
+
+
+   
+}
+
+.nav_cont, span a {
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    
+}
+    
+/* Конец красной шапки */
+
+
+
+.heder_nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#ffcc00;
+    min-height: 120px;
+}
+
+.nav_list{
+    display: flex;
+    
+    
+}
+.nav_item, a:hover{
+    display: flex;
+    list-style-type: none;
+    margin: auto;
+    text-decoration: none;
+    padding:10px;
+    color:red;
+    text-transform: uppercase ;
+
+    
+    
+}
+.main_background{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+
+
+    min-width:1170px;
+    min-height: 800px;
+    background-image: url(/img/Layer\ 3.png);
+    background-size: 100%;
+    
+}
+
+.main_style{
+    font-size: 80px;
+    font-weight: bold;
+    color: white;
+
+}

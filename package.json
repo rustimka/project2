@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.0.2",
+    "vue": "^2.6.14"
+  }
+}
